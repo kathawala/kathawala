@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react (native), expo, django(-rest-framework), terraform, ansible**
 
-- 📫 How to reach me **farhan.kathawala@gmail.com**
+- 📫 How to reach me **farhansayshi@gmail.com**
 
 - ⚡ Fun fact **my name means "happy" 😄**
 
