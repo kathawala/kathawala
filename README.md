@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A full-stack developer, with interests in DevOps and RPA as well</h3>
+<h3 align="center">A full-stack developer, works a lot with React Native, with interests in DevOps and RPA as well</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathawala" alt="kathawala" /> </p>
 
 - 🔭 I’m currently working on [Passed Plates](https://passedplates.com)
+
+- 📒 I maintain [Gerbera (mobile app)](https://github.com/gerbera/gerbera-mobile-app) and [expo-file-dl](https://github.com/kathawala/expo-file-dl) among other things
 
 - 🌱 I’m currently learning **svelte, flutter, hugo, recoil, relay**
 
