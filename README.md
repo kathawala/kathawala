@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kathawala](https://github.com/kathawala)
 
+- ✍️ I post short guides and how-tos on my site: https://farhansayshi.com
+
 - 💬 Ask me about **react (native), expo, django(-rest-framework), terraform, ansible**
 
 - 📫 How to reach me **farhansayshi@gmail.com**
