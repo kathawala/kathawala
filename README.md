@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **my name means "happy" 😄**
 
-### Blog posts
+<h3 align="left">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
