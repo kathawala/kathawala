@@ -13,7 +13,7 @@
 
 - ✍️ I post short guides and how-tos on my site: https://farhansayshi.com
 
-- 💬 Ask me about **react (native), expo, django(-rest-framework), terraform, ansible, AWS**
+- 💬 Ask me about **react (native), expo, django(-rest-framework), express, serverless framework, terraform, ansible, AWS**
 
 - 📫 How to reach me **farhansayshi@gmail.com**
 
