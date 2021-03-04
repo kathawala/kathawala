@@ -7,13 +7,13 @@
 
 - 📒 I maintain [Gerbera (mobile app)](https://github.com/gerbera/gerbera-mobile-app) and [expo-file-dl](https://github.com/kathawala/expo-file-dl) among other things
 
-- 🌱 I’m currently learning **svelte, flutter, hugo, recoil, relay**
+- 🌱 I’m currently learning **hasura, hugo, svelte, flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kathawala](https://github.com/kathawala)
 
 - ✍️ I post short guides and how-tos on my site: https://farhansayshi.com
 
-- 💬 Ask me about **react (native), expo, django(-rest-framework), terraform, ansible**
+- 💬 Ask me about **react (native), expo, django(-rest-framework), terraform, ansible, AWS**
 
 - 📫 How to reach me **farhansayshi@gmail.com**
 
