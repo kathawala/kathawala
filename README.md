@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathawala" alt="kathawala" /> </p>
 
-- 🔭 I’m currently working on [Passed Plates](https://passedplates.com)
+- 🔭 I’m currently working at [Shopify](https://github.com/Shopify)
 
 - 📒 I maintain [Gerbera (mobile app)](https://github.com/gerbera/gerbera-mobile-app) and [expo-file-dl](https://github.com/kathawala/expo-file-dl) among other things
 
