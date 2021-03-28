@@ -7,7 +7,7 @@
 
 - 📒 I maintain [Gerbera (mobile app)](https://github.com/gerbera/gerbera-mobile-app) and [expo-file-dl](https://github.com/kathawala/expo-file-dl) among other things
 
-- 🌱 I’m currently learning **hasura, hugo, svelte, flutter**
+- 🌱 I’m currently learning **ruby/rails, hasura, svelte, flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kathawala](https://github.com/kathawala)
 
