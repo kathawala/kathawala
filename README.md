@@ -21,10 +21,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Material Design / Material UI in a React Native App](https://www.farhansayshi.com/post/using-material-design-and-material-ui-in-react-native/)
 - [Build a Google Maps style panel overlay with scrollable inner content in React Native using rn-sliding-up-panel and react-native-maps](https://www.farhansayshi.com/post/sliding-up-panel-in-react-native/)
 - [Build an NPM Package with Expo Dependencies for Expo and Plain React Native Apps](https://www.farhansayshi.com/post/build-an-npm-package-with-expo-dependencies-for-expo-and-plain-react-native-projects/)
 - [How to Save Files to a Device Folder using Expo and React-Native](https://www.farhansayshi.com/post/how-to-save-files-to-a-device-folder-using-expo-and-react-native/)
-- [Free, One-Command, Self-Hosted Commento Deployment for a Hugo Site](https://www.farhansayshi.com/post/free-one-command-self-hosted-commento-deployment-for-a-hugo-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
