@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Farhan</h1>
-<h3 align="left">A full-stack developer, works a lot with React Native, with interests in DevOps as well</h3>
+<h3 align="left">A full-stack developer, works a lot with Ruby, React & React Native. I'm a big fan of [type-challenges](https://github.com/type-challenges/type-challenges)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathawala" alt="kathawala" /> </p>
 
